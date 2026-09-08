@@ -87,7 +87,7 @@ Source data: medical appointment records for public healthcare in Brazil (~110K 
 
 ## Dashboard
 
-![Image description](dashboard/hospital.png)
+![Image description](Dashboard/hospital.png)
 
 The **Appointment No-Show Dashboard** presents these findings for clinic operations use:
 
